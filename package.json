@@ -1,0 +1,19 @@
+{
+  "name": "resize-multiple-screens-android",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run png && npm run jpg",
+    "png": "gulp png",
+    "jpg": "gulp jpg"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-responsive": "^2.6.0",
+    "gulp-tinypng-compress": "^1.2.1"
+  }
+}
