@@ -37,3 +37,5 @@ gulp ios:png
 ```
 gulp ios:jpg
 ```
+
+Then go to the 'dist' directory and enjoy!
